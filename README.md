@@ -1,4 +1,6 @@
 # Rack Studies
 
-run
+run:
+```shell
   rackup -Ilib config.ru
+```
